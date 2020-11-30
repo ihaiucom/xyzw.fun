@@ -1,13 +1,13 @@
-[http://xyzw.fun] xyzw.fun
+[http://xyzw.fun] (https://xyzw.fun)
 
 
-[http://xyzw.cc] xyzw.cc
+[http://xyzw.cc] (https://xyzw.cc)
 
 
-[http://zs.center] zs.center
+[http://zs.center] (htts://zs.center)
 
 
-[http://ihaiu.com] ihaiu.com
+[http://ihaiu.com] (htts://blog.ihaiu.com)
 
 
 
